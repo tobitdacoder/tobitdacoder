@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400"   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQyOTY3MGM0MTQ4ZTk2OTUwOWM0MWI3OGY4NjVhYjM0MDcwNDBlNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on **a small restaurant demo app project for practice, with automation using python.**
 
-- 🌱 I’m currently learning **flutter, dart, data structure and algorythm**
+- 🌱 I’m currently learning **flutter, dart, data structure and algorythm using python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tobitdacoder/tobitdacoder](https://github.com/tobitdacoder/tobitdacoder)
 
